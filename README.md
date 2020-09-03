@@ -1,3 +1,3 @@
-# qwertyquerty
+<img src="http://static.qtqt.cf/image/githubtitlecard.gif" align="center" />
 
-### [Website](http://qtqt.cf/) | [Patreon](https://www.patreon.com/qwertyquerty)
+### <p align="center">[Website](http://qtqt.cf/) | [Patreon](https://www.patreon.com/qwertyquerty)</p>
