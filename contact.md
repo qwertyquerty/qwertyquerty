@@ -1,2 +1,2 @@
-- Discord: qwerty#6768 | [Support Server](https://discord.gg/JF3kg77)
+- Discord: coconatsu#4342 | [Support Server](https://discord.gg/JF3kg77)
 - Email: [qwertytrogi@gmail.com](mailto:qwertytrogi@gmail.com)
